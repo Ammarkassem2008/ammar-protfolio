@@ -67,7 +67,7 @@ btn.onclick = function() {
 
 function sentMs() {
   let number = '+963986258215';
-  let name = document.getElementById('name').value + document.getElementById('lastName').value;
+  let name = document.getElementById('name').value + document.getElementById('lastName').value || 'Not Found';
   let phone = document.getElementById('phone').value || 'Unknown';
   let email = document.getElementById('email').value || 'Unknown';
   let massege = document.getElementById('massege').value;
