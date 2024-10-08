@@ -291,6 +291,9 @@ header nav .nav-links a.active {
 
 
 /* start Portfolio */
+.portfolio .contanier{
+  text-align: center;
+}
 .portfolio .boxs .box {
   margin-bottom: 50px;
   position: relative;
