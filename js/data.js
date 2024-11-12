@@ -45,12 +45,6 @@ const data = [
 
   {
     id: 8,
-    img: './img/project9.png',
-    text: 'E-commers on salla.sa',
-    link: 'https://mada-r.com/'
-  },
-  {
-    id: 9,
     img: './img/project10.png',
     text: 'E-commers on salla.sa',
     link: 'https://tnama1.com/'
@@ -71,7 +65,7 @@ function showData(rang) {
         </div>
   `;
 
-  projects.innerHTML += project;
-}
+    projects.innerHTML += project;
+  }
 }
 showData(data.length)
