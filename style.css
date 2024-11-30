@@ -227,7 +227,6 @@ header nav .nav-links a.active {
 }
 
 .about .content {
-  
   text-align: left;
 }
 
@@ -253,7 +252,7 @@ header nav .nav-links a.active {
   line-height: 1.8;
   margin-bottom: 70px;
   text-align: left;
-  text-wrap: wrap;
+text-wrap: wrap;
 }
 
 /* start Services */
