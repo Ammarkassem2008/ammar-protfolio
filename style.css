@@ -165,7 +165,7 @@ header nav .nav-links a.active {
   margin: 20px 0 10px;
 }
 
-.hero .content pre {
+.hero .content p {
   color: #e4e4e4;
   font-size: 26px;
   font-weight: bold;
@@ -227,7 +227,8 @@ header nav .nav-links a.active {
 }
 
 .about .content {
-  margin-left: 30px;
+  
+  text-align: left;
 }
 
 .about .content h1 {
@@ -246,10 +247,13 @@ header nav .nav-links a.active {
   margin-bottom: 40px;
 }
 
-.about .content p {
+.about .content pre {
+  max-width: 340px;
   color: #f0f0f0;
   line-height: 1.8;
   margin-bottom: 70px;
+  text-align: left;
+  text-wrap: wrap;
 }
 
 /* start Services */
