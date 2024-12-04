@@ -49,6 +49,12 @@ const data = [
     text: 'E-commers on salla.sa',
     link: 'https://tnama1.com/'
   },
+  {
+    id: 9,
+    img: './img/project11.jpg',
+    text: 'E-commers "seen" on salla.sa',
+    link: 'https://seen-app.com/'
+  }
 ]
 
 function showData(rang) {
