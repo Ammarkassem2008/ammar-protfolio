@@ -15,7 +15,7 @@ const data = [
     id: 3,
     img: './img/project3.png',
     text: 'Remove bg',
-    link: '#'
+    link: 'https://ammarkassem2008.github.io/Remove-bg/'
 },
   {
     id: 4,
