@@ -504,13 +504,13 @@ header nav .nav-links a.active {
 }
 .whatsUp-btn {
   border-radius: 50%;
-  width: 40px;
-  height: 40px;
+  width: 55px;
+  height:55px;
   z-index: 10;
   animation: fill 2s infinite ease-in-out;
   position: fixed;
-  right: 7%;
-  bottom: 15%;
+  left: 8%;
+  bottom: 11%;
   border:1.5px solid #4CD742;
   padding: 2px;
 }
