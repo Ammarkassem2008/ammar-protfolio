@@ -498,6 +498,10 @@ header nav .nav-links a.active {
   animation: fill 2s infinite ease-in-out;
 }
 
+
+#scrolling i {
+  color: #fff;
+}
 .whatsUp-btn {
   border-radius: 50%;
   width: 40px;
@@ -509,10 +513,6 @@ header nav .nav-links a.active {
   bottom: 15%;
   border:1.5px solid #4CD742;
   padding: 2px;
-}
-
-#scrolling i {
-  color: #fff;
 }
 
 .con-img {
