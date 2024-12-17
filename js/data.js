@@ -1,59 +1,59 @@
 const data = [
   {
     id: 1,
-    img: './img/project1.png',
-    text: 'Dash board',
-    link: '#'
+    img: './projects-img/1.jpg',
+    text: 'Beauty Store on salla.sa',
+    link: 'https://butterfly-afnan-beauty.com/'
   },
   {
     id: 2,
-    img: './img/project2.png',
-    text: 'weather App',
-    link: '#'
+    img: './projects-img/9.jpg',
+    text: 'Tanama store',
+    link: 'https://tnama1.com/'
   },
   {
     id: 3,
-    img: './img/project3.png',
-    text: 'Remove bg',
-    link: 'https://ammarkassem2008.github.io/Remove-bg/'
+    img: './projects-img/8.jpg',
+    text: 'Seen English Academy',
+    link: 'https://seen-app.com/'
 },
   {
     id: 4,
-    img: './img/project4.png',
-    text: 'Busniess Website',
-    link: '#'
+    img: './projects-img/4.jpg',
+    text: 'Remove bg App',
+    link: 'https://ammarkassem2008.github.io/Remove-bg/'
 },
 
   {
     id: 5,
-    img: './img/project6.png',
-    text: 'To-Do List',
-    link: '#'
+    img: './projects-img/5.jpg',
+    text: 'E-commers on salla.sa',
+  link: 'https://sanea.sa/'
 },
   {
-    id: 6,
-    img: './img/project7.png',
-    text: 'E-commers on salla.sa',
-    link: 'https://sanea.sa/'
-  },
-  {
-    id: 7,
-    img: './img/project8.png',
-    text: 'E-commers on salla.sa',
-    link: 'https://ewacsa.com/'
-  },
-
+  id: 7,
+  img: './projects-img/10.jpg',
+  text: 'Ewac store',
+  link: 'https://ewacsa.com/'
+},
   {
     id: 8,
-    img: './img/project10.png',
-    text: 'E-commers on salla.sa',
-    link: 'https://tnama1.com/'
+    img: './projects-img/2.jpg',
+    text: 'Dash board',
+    link: '#'
   },
   {
     id: 9,
-    img: './img/project11.jpg',
-    text: 'E-commers "seen" on salla.sa',
-    link: 'https://seen-app.com/'
+    img: './projects-img/3.jpg',
+    text: 'Weather App',
+    link: '#'
+  }
+  ,
+  {
+    id: 9,
+    img: './projects-img/6.jpg',
+    text: 'To-do list',
+    link: 'https://seen-app.com'
   }
 ]
 
